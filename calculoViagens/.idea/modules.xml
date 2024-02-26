@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/calculoViagens.iml" filepath="$PROJECT_DIR$/.idea/calculoViagens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encontrarTriangulos/encontrarTriangulos.iml" filepath="$PROJECT_DIR$/encontrarTriangulos/encontrarTriangulos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viagensAPP/viagensAPP.iml" filepath="$PROJECT_DIR$/viagensAPP/viagensAPP.iml" />
+    </modules>
+  </component>
+</project>
