@@ -7,7 +7,7 @@ public class Main {
         int idade;
         // usei ArrayList, pois ArrayList é dinâmico e como um array [] simples deve ser fixo, no
         // do while, é a melhor forma.
-        ArrayList<Integer> idades = new ArrayList<Integer>();
+        ArrayList<Integer> idades = new ArrayList<>();
 
 
         System.out.println("Enquanto não digitar um número negativo, o programa não encerrará!");
